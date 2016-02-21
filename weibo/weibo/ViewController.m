@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"开始开发");
+    NSLog(@"我是张三,已经加入开发");
 }
 
 - (void)didReceiveMemoryWarning {
